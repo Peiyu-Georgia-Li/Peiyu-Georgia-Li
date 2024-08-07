@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Peiyu-Georgia-Li
 - 👀 I’m interested in **Full Stack Web Development** and **Machine Learning**
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, MongoDB and PyTorch.
+- 🏫 I'm a master student at the University of Notre Dame.
 - 📫 How to reach me: lipy4688@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun facts:
